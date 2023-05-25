@@ -1,0 +1,10 @@
+{"nombre":"misael","edad":46,"correo":"misael_dic@hotmail.com"}
+{"nombre":"misael","edad":46,"correo":"misael_dic@hotmail.com"}
+{"nombre":"misael","edad":46,"correo":"misael_dic@hotmail.com"}
+{"nombre":"misael","edad":46,"correo":"misael_dic@hotmail.com"}
+{"nombre":"hola","edad":12,"correo":"fsd"}
+{"nombre":"diego","edad":12,"correo":"asihkjfgfd"}
+{"nombre":"JUAN DIEGO","edad":21,"correo":"JUANITO324@GMAIL.COM"}
+{"nombre":"RAMIRO GARZA","edad":34,"correo":"GARZA32@GMAIL.COM"}
+{"nombre":"asfasf","edad":12,"correo":"ewfs"}
+{"nombre":"hola","edad":54,"correo":"hfs"}
